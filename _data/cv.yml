@@ -1,62 +1,63 @@
-# 教育经历
-- title: Education
-  type: time_table
-  contents:
-    - title: "Ph.D. in Computer Science"
-      institution: "Fudan University & Shanghai Artificial Intelligence Laboratory (Joint Program)"
-      year: "2025 - 2029 (Expected)"
-      description: "Advised by Prof. Bowen Zhou and Prof. Chao Yang."
-    - title: "M.S. in Software Engineering"
-      institution: "Zhejiang University"
-      year: "2022 - 2025"
-      description: "Advised by Prof. Junbo Zhao."
-    - title: "B.S. in Internet of Things Engineering"
-      institution: "Hainan University"
-      year: "2018 - 2022"
+cv:  # 添加这一行
+  # 教育经历
+  - title: Education
+    type: time_table
+    contents:
+      - title: "Ph.D. in Computer Science"
+        institution: "Fudan University & Shanghai Artificial Intelligence Laboratory (Joint Program)"
+        year: "2025 - 2029 (Expected)"
+        description: "Advised by Prof. Bowen Zhou and Prof. Chao Yang."
+      - title: "M.S. in Software Engineering"
+        institution: "Zhejiang University"
+        year: "2022 - 2025"
+        description: "Advised by Prof. Junbo Zhao."
+      - title: "B.S. in Internet of Things Engineering"
+        institution: "Hainan University"
+        year: "2018 - 2022"
 
-# 研究经历
-- title: Research Experience
-  type: time_table
-  contents:
-    - title: "Research Intern"
-      institution: "Shanghai Artificial Intelligence Laboratory"
-      year: "Jul. 2024 - Present"
-      description:
-        - "Focusing on **Trustworthy Machine Learning** and LLM/VLM Safety."
-        - "Developing the **Reflector** framework to defend against indirect jailbreak attacks."
-        - "Working on representation-level alignment (**ReSaM**) for vision-language models."
-    - title: "Graduate Researcher"
-      institution: "Zhejiang University Bigdata Lab"
-      year: "Sep. 2022 - Mar. 2025"
-      description:
-        - "Research on Text-to-Image safety and diffusion models."
-        - "Developed **JPA**, the first automated black-box attack framework for T2I models."
+  # 研究经历
+  - title: Research Experience
+    type: time_table
+    contents:
+      - title: "Research Intern"
+        institution: "Shanghai Artificial Intelligence Laboratory"
+        year: "Jul. 2024 - Present"
+        description:
+          - "Focusing on **Trustworthy Machine Learning** and LLM/VLM Safety."
+          - "Developing the **Reflector** framework to defend against indirect jailbreak attacks."
+          - "Working on representation-level alignment (**ReSaM**) for vision-language models."
+      - title: "Graduate Researcher"
+        institution: "Zhejiang University Bigdata Lab"
+        year: "Sep. 2022 - Mar. 2025"
+        description:
+          - "Research on Text-to-Image safety and diffusion models."
+          - "Developed **JPA**, the first automated black-box attack framework for T2I models."
 
-# 荣誉奖项
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 2025
-      items: 
-        - "Outstanding Graduate Student (Top 5%), Zhejiang University"
-    - year: 2022
-      items:
-        - "**Baogang National Scholarship** (Top 1%)"
-        - "Outstanding Graduate of Hainan Province (Top 5%)"
-    - year: 2021
-      items:
-        - "First Class Academic Scholarship (Top 1%)"
+  # 荣誉奖项
+  - title: Honors and Awards
+    type: time_table
+    contents:
+      - year: 2025
+        items: 
+          - "Outstanding Graduate Student (Top 5%), Zhejiang University"
+      - year: 2022
+        items:
+          - "**Baogang National Scholarship** (Top 1%)"
+          - "Outstanding Graduate of Hainan Province (Top 5%)"
+      - year: 2021
+        items:
+          - "First Class Academic Scholarship (Top 1%)"
 
-# 技术技能
-- title: Skills
-  type: list
-  contents:
-    - "**Programming:** Python, C/C++, JavaScript, HTML/CSS."
-    - "**Frameworks:** PyTorch, Hugging Face, TensorFlow."
-    - "**Expertise:** LLM Red Teaming, Adversarial Attacks, Safety Alignment, Agent Safety."
+  # 技术技能
+  - title: Skills
+    type: list
+    contents:
+      - "**Programming:** Python, C/C++, JavaScript, HTML/CSS."
+      - "**Frameworks:** PyTorch, Hugging Face, TensorFlow."
+      - "**Expertise:** LLM Red Teaming, Adversarial Attacks, Safety Alignment, Agent Safety."
 
-# 愿景
-- title: Vision
-  type: list
-  contents:
-    - "Dedicating to making **Safe AI** a foundational property of next-generation intelligence."
+  # 愿景
+  - title: Vision
+    type: list
+    contents:
+      - "Dedicating to making **Safe AI** a foundational property of next-generation intelligence."
