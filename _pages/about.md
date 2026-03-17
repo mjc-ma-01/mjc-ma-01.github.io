@@ -1,38 +1,37 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='https://cs.fudan.edu.cn/'>Fudan University</a> & <a href='https://www.shlab.org.cn/'>Shanghai AI Lab</a>
+subtitle: <a href="https://cs.fudan.edu.cn/">Fudan University</a> & <a href="https://www.shlab.org.cn/">Shanghai AI Lab</a>
 
 profile:
   align: right
-  image: mjc.jpg  # 记得在 assets/img/ 放一张职业且亲和的照片
+  image: mjc.jpg # 建议在 assets/img/ 放入一张展现亲和力的职业照
   address: >
     <p>Shanghai Artificial Intelligence Laboratory</p>
     <p>Shanghai, China</p>
+
+news: true
+selected_papers: true
+social: true
+
+
 ---
 
-I am a first-year Ph.D. student at **Fudan University** and **Shanghai Artificial Intelligence Laboratory (PJLab)**, where I am privileged to be advised by **Prof. Bowen Zhou** and **Prof. Chao Yang**. 
+I am a first-year Ph.D. student at **Fudan University** and **Shanghai Artificial Intelligence Laboratory (PJLab)**, where I am privileged to be advised by [**Prof. Bowen Zhou**](https://scholar.google.com/citations?user=h3Nsz6YAAAAJ&hl=en) and [**Prof. Chao Yang**](https://emigmo.github.io/).
 
-My research is dedicated to **Trustworthy Machine Learning**, with a current mission to make Large Models "un-jailbreakable". 🛡️
+Prior to my doctoral studies, I earned my M.S. from [**Zhejiang University**](https://www.zju.edu.cn/) in 2025.
+
+My research is driven by a fundamental commitment to **Trustworthy Machine Learning**. I am dedicated to exploring the boundaries of AI safety and ensuring that the next generation of intelligence remains beneficial and controllable.
 
 ### 🔍 Research Interests
-* **LLM/VLM Safety:** Specifically *Indirect Jailbreak Attacks* and *Red Teaming*.
-* **Alignment:** Developing *Representation-level* alignment methods (like my work **ReSaM**).
-* **Adversarial Robustness:** Investigating how multi-modal models can be steered or misled.
+I am broadly interested in the intersection of safety and general intelligence. Currently, I am dedicated to the following directions:
 
-### 🎓 Education
-- **Fudan University & Shanghai AI Lab**, Ph.D. in CS (2025 - 2029)
-- **Zhejiang University**, M.S. in Software Engineering (2022 - 2025)
-- **Hainan University**, B.S. in IoT Engineering (2021 - 2025)
-
-> *“I believe safety is not a constraint, but a fundamental property for the next generation of AI.”*
-
+* **Value Alignment:** Designing mechanisms that ensure large-scale models internalize human values and safety constraints fundamentally.
+* **Autonomous Agents:** Investigating the safety alignment and red teaming of agents in complex, long-horizon decision-making environments.
+* **Explainability of Model Safety:** Uncovering the internal mechanisms and representation-level dynamics that govern model (mis)behaviors to build more transparent safety frameworks.
 
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+> **“My vision is to make Safe AI — ensuring safety is not just a constraint, but a foundational property of intelligence.”**
