@@ -4,7 +4,7 @@ const ninja = document.querySelector('ninja-keys');
 // add the home and posts menu items
 ninja.data = [{
     id: "nav-about",
-    title: "about",
+    title: "About",
     section: "Navigation",
     handler: () => {
       window.location.href = "/";
@@ -450,6 +450,18 @@ ninja.data = [{
               window.location.href = "/news/announcement_2/";
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          description: "",
+          section: "News",},{id: "news-new-publication-our-work-jailbreaking-prompt-attack-jpa-a-controllable-adversarial-attack-framework-against-diffusion-models-has-been-accepted-by-naacl-2025",
+          title: '📢 New Publication: Our work “Jailbreaking Prompt Attack (JPA)”, a controllable adversarial attack...',
+          description: "",
+          section: "News",},{id: "news-officially-graduated-with-a-master-s-degree-in-software-engineering-from-zhejiang-university-honored-to-be-recognized-as-an-outstanding-graduate-student-top-5-gratitude-to-my-advisors-and-colleagues-at-the-bigdata-lab",
+          title: '🎓 Officially graduated with a Master’s degree in Software Engineering from Zhejiang University....',
+          description: "",
+          section: "News",},{id: "news-excited-to-share-that-i-have-officially-started-my-ph-d-journey-at-fudan-university-and-shanghai-ai-lab-working-under-the-supervision-of-prof-bowen-zhou-and-prof-chao-yang-i-will-be-dedicating-my-research-to-the-vision-make-safe-ai-focusing-on-value-alignment-and-the-interpretability-of-model-safety",
+          title: '🚀 Excited to share that I have officially started my Ph.D. journey at...',
+          description: "",
+          section: "News",},{id: "news-our-recent-research-on-llm-vlm-safety-has-been-submitted-to-icml-2026-we-introduced-reflector-a-framework-for-internalizing-step-wise-reflection-against-indirect-jailbreaks-and-resam-a-representation-level-safety-margin-alignment-method",
+          title: '📝 Our recent research on LLM/VLM Safety has been submitted to ICML 2026....',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
