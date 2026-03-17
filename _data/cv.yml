@@ -2,7 +2,7 @@ cv:
   name: Jiachen Ma
   location: Shanghai, China
   email: majiachen@pjlab.org.cn
-  phone: "tel:+86-13011707397" # 建议填入，RenderCV 会生成拨号链接
+  phone: "tel:+86-13011707397"
   social_networks:
     - network: GitHub
       username: mjc-ma-01
@@ -31,7 +31,7 @@ cv:
         start_date: 2018-09
         end_date: 2022-06
 
-    experience:
+    work_experience: # 修改了这里，RenderCV 默认识别这个名称
       - company: "Shanghai Artificial Intelligence Laboratory"
         position: "Research Intern"
         location: Shanghai, China
@@ -68,5 +68,7 @@ cv:
         details: "PyTorch, Hugging Face, TensorFlow"
       - label: Expertise
         details: "LLM Red Teaming, Adversarial Attacks, Safety Alignment, Agent Safety"
-    vision:
-      - "Dedicating to making Safe AI a foundational property of next-generation intelligence."
+
+    vision: # 为了保险，这里改成最简单的 OneLineEntry 格式
+      - label: Vision
+        details: "Dedicating to making Safe AI a foundational property of next-generation intelligence."
