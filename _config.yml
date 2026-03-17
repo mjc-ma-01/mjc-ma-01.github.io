@@ -15,7 +15,7 @@ description: >
   Focusing on Trustworthy ML, LLM/VLM Safety, and Alignment.
 
 # 社交账号（根据简历填入）
-google_scholar_userid: [aGQrFlUAAAAJ]
+google_scholar_userid: aGQrFlUAAAAJ
 github_username: mjc-ma-01
 # twitter_username: [如果有则填入]
 # linkedin_username: [如果有则填入]
@@ -29,7 +29,7 @@ lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://mjc-ma-01.github.io # the base hostname & protocol for your site
-baseurl:  # the subpath of your site, e.g. /blog/. Leave blank for root
+baseurl: "" # the subpath of your site, e.g. /blog/. Leave blank for root
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 back_to_top: true # set to false to disable the back to top button
@@ -291,9 +291,9 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
-
+  last_name: [Ma]
+  first_name: [Jiachen]
+  
   style: apa
   locale: en
 
