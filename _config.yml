@@ -17,9 +17,9 @@ description: >
 # 社交账号（根据简历填入）
 google_scholar_userid: aGQrFlUAAAAJ
 github_username: mjc-ma-01
-# twitter_username: [如果有则填入]
-# linkedin_username: [如果有则填入]
-
+twitter_username: 
+linkedin_username: 
+cv_pdf: assets/pdf/mjc_Resum.pdf  # 确保你在该路径下上传了对应的 PDF
 
 footer_text: >
   Powered by Jekyll and al-folio. Always curious about the boundary of AI Safety. 🛡️
@@ -293,7 +293,7 @@ display_categories: ["external-services"] # these categories will be displayed o
 scholar:
   last_name: [Ma]
   first_name: [Jiachen]
-  
+
   style: apa
   locale: en
 
