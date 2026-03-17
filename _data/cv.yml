@@ -49,17 +49,17 @@ cv:
         highlights:
           - "Research on Text-to-Image safety and diffusion models."
           - "Developed JPA, the first automated black-box attack framework for T2I models."
-
+    
     honors_and_awards:
-      - title: "Outstanding Graduate Student (Top 5%)"
-        label: "Zhejiang University"
-        year: 2025
-      - title: "Baogang National Scholarship (Top 1%)"
-        label: "National Award"
-        year: 2022
-      - title: "Outstanding Graduate of Hainan Province (Top 5%)"
-        label: "Provincial Award"
-        year: 2022
+      - label: "Zhejiang University"
+        details: "Outstanding Graduate Student (Top 5%)"
+        date: 2025
+      - label: "National Award"
+        details: "Baogang National Scholarship (Top 1%)"
+        date: 2022
+      - label: "Provincial Award"
+        details: "Outstanding Graduate of Hainan Province (Top 5%)"
+        date: 2022
 
     technologies:
       - label: Programming
@@ -68,6 +68,5 @@ cv:
         details: "PyTorch, Hugging Face, TensorFlow"
       - label: Expertise
         details: "LLM Red Teaming, Adversarial Attacks, Safety Alignment, Agent Safety"
-
     vision:
       - "Dedicating to making Safe AI a foundational property of next-generation intelligence."
