@@ -17,8 +17,8 @@ description: >
 # 社交账号（根据简历填入）
 google_scholar_userid: aGQrFlUAAAAJ
 github_username: mjc-ma-01
-twitter_username: 
-linkedin_username: 
+# twitter_username: 
+# linkedin_username: 
 cv_pdf: assets/pdf/mjc_Resum.pdf  # 确保你在该路径下上传了对应的 PDF
 
 footer_text: >
