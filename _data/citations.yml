@@ -1,19 +1,15 @@
 metadata:
-  last_updated: '2026-04-20'
+  last_updated: '2026-05-06'
 papers:
   aGQrFlUAAAAJ:2osOgNQ5qMEC:
     citations: 1
     title: Understanding and Preserving Safety in Fine-Tuned LLMs
     year: '2026'
-  aGQrFlUAAAAJ:9yKSN-GCB0IC:
-    citations: 0
-    title: 'SafeCoT: Improving VLM Safety with Minimal Reasoning'
-    year: '2025'
   aGQrFlUAAAAJ:u-x6o8ySG0sC:
     citations: 47
     title: A comparative study on reasoning patterns of openai's o1 model
     year: '2024'
   aGQrFlUAAAAJ:u5HHmVD_uO8C:
-    citations: 77
+    citations: 79
     title: 'Jailbreaking prompt attack: A controllable adversarial attack against diffusion models'
     year: '2024'
