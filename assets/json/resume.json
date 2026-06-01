@@ -1,15 +1,17 @@
-{"basics": {
-  "name": "Jiachen Ma",
-  "email": "majiachen@pjlab.org.cn",
-  "profiles": [
-    {
-      "network": "GitHub",
-      "username": "mjc-ma-01",
-      "url": "https://github.com/mjc-ma-01"
-    },
-    {
-      "network": "Google Scholar",
-      "url": "https://scholar.google.com/citations?user=aGQrFlUAAAAJ"
-    }
-  ]
-}}
+{
+  "basics": {
+    "name": "Jiachen Ma",
+    "email": "majiachen@pjlab.org.cn",
+    "profiles": [
+      {
+        "network": "GitHub",
+        "username": "mjc-ma-01",
+        "url": "https://github.com/mjc-ma-01"
+      },
+      {
+        "network": "Google Scholar",
+        "url": "https://scholar.google.com/citations?user=aGQrFlUAAAAJ"
+      }
+    ]
+  }
+}

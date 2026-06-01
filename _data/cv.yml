@@ -49,7 +49,7 @@ cv:
         highlights:
           - "Research on Text-to-Image safety and diffusion models."
           - "Developed JPA, the first automated black-box attack framework for T2I models."
-    
+
     honors_and_awards:
       - label: "Zhejiang University"
         details: "Outstanding Graduate Student (Top 5%)"

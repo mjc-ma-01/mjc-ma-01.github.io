@@ -17,9 +17,9 @@ description: >
 # 社交账号（根据简历填入）
 google_scholar_userid: aGQrFlUAAAAJ
 github_username: mjc-ma-01
-# twitter_username: 
-# linkedin_username: 
-cv_pdf: assets/pdf/mjc_Resum.pdf  # 确保你在该路径下上传了对应的 PDF
+# twitter_username:
+# linkedin_username:
+cv_pdf: assets/pdf/mjc_Resum.pdf # 确保你在该路径下上传了对应的 PDF
 
 footer_text: >
   Powered by Jekyll and al-folio. Always curious about the boundary of AI Safety. 🛡️
@@ -33,7 +33,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/. Leave blank for root
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 back_to_top: true # set to false to disable the back to top button
-    
+
 # -----------------------------------------------------------------------------
 # Theme
 # -----------------------------------------------------------------------------
@@ -96,8 +96,6 @@ openpanel_analytics: # your Openpanel analytics client ID (format: XXXXXXXX-XXXX
 # For Google Search Console, see https://support.google.com/webmasters/answer/9008080?hl=en#meta_tag_verification&zippy=%2Chtml-tag
 google_site_verification: # your google-site-verification ID (Google Search Console)
 bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
-
-
 
 # -----------------------------------------------------------------------------
 # Blog
