@@ -1,15 +1,19 @@
 metadata:
-  last_updated: '2026-05-18'
+  last_updated: '2026-07-06'
 papers:
   aGQrFlUAAAAJ:2osOgNQ5qMEC:
-    citations: 2
+    citations: 6
     title: Understanding and Preserving Safety in Fine-Tuned LLMs
     year: '2026'
+  aGQrFlUAAAAJ:IjCSPb-OGe4C:
+    citations: 0
+    title: 'REFLECTOR: Internalizing Step-wise Reflection against Indirect Jailbreak'
+    year: '2026'
   aGQrFlUAAAAJ:u-x6o8ySG0sC:
-    citations: 47
+    citations: 51
     title: A comparative study on reasoning patterns of openai's o1 model
     year: '2024'
   aGQrFlUAAAAJ:u5HHmVD_uO8C:
-    citations: 83
+    citations: 90
     title: 'Jailbreaking prompt attack: A controllable adversarial attack against diffusion models'
     year: '2024'
