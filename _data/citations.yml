@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-05'
+  last_updated: '2026-08-26'
 papers:
   aGQrFlUAAAAJ:2osOgNQ5qMEC:
     citations: 10
@@ -10,10 +10,10 @@ papers:
     title: 'REFLECTOR: Internalizing Step-wise Reflection against Indirect Jailbreak'
     year: '2026'
   aGQrFlUAAAAJ:u-x6o8ySG0sC:
-    citations: 49
+    citations: 51
     title: A comparative study on reasoning patterns of openai's o1 model
     year: '2024'
   aGQrFlUAAAAJ:u5HHmVD_uO8C:
-    citations: 97
+    citations: 98
     title: 'Jailbreaking prompt attack: A controllable adversarial attack against diffusion models'
     year: '2024'
